@@ -26,11 +26,12 @@ Este proyecto demuestra competencias en desarrollo móvil moderno:
 * **Back-ground Services:** Flutter Local Notifications (Android 13+ compatible)
 * **Diseño:** Material Design 3 (Dark Mode nativo)
 
-## Capturas de Pantalla
+## 📸 Capturas de Pantalla
 | Lista de Materias | Calendario |
 |:---:|:---:|
-| *(![092124a6-71a5-4e1f-95ff-6219f1b69c44](https://github.com/user-attachments/assets/c67a06f3-f8e2-48ba-b630-251552d3a5b0)
-)* | *(Sube una captura aquí después)* |
+| ![image](![inicio](https://github.com/user-attachments/assets/f62154c9-4e21-4980-a77c-03d30de7a3de)
+) | ![image](![Calendario con faltas](https://github.com/user-attachments/assets/07ab3fd1-6c37-47d7-8922-f893ee3bc361)
+) |
 
 ---
 **Desarrollado por Daniel Fornue** *Estudiante de Ingeniería en TI*
