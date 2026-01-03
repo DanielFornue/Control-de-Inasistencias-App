@@ -27,11 +27,22 @@ Este proyecto demuestra competencias en desarrollo móvil moderno:
 * **Diseño:** Material Design 3 (Dark Mode nativo)
 
 ## 📸 Capturas de Pantalla
-| Lista de Materias | Calendario |
-|:---:|:---:|
-| ![image](![inicio](https://github.com/user-attachments/assets/f62154c9-4e21-4980-a77c-03d30de7a3de)
-) | ![image](![Calendario con faltas](https://github.com/user-attachments/assets/07ab3fd1-6c37-47d7-8922-f893ee3bc361)
-) |
+<table align="center">
+  <tr>
+    <td align="center" width="50%"><strong>Lista de Materias</strong></td>
+    <td align="center" width="50%"><strong>Calendario</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+        <img src="![inicio](https://github.com/user-attachments/assets/69907973-87bf-4612-8ae5-891b5665ab48)
+" width="250" alt="Lista de Materias">
+    </td>
+    <td align="center">
+        <img src="![Calendario con faltas](https://github.com/user-attachments/assets/e0ea41d8-e8fe-4365-b3dc-7075949af438)
+" width="250" alt="Calendario">
+    </td>
+  </tr>
+</table>
 
 ---
 **Desarrollado por Daniel Fornue** *Estudiante de Ingeniería en TI*
