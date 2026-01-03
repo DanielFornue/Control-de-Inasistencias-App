@@ -34,12 +34,10 @@ Este proyecto demuestra competencias en desarrollo móvil moderno:
   </tr>
   <tr>
     <td align="center">
-        <img src="![inicio](https://github.com/user-attachments/assets/69907973-87bf-4612-8ae5-891b5665ab48)
-" width="250" alt="Lista de Materias">
+        <img src="https://github.com/user-attachments/assets/69907973-87bf-4612-8ae5-891b5665ab48" width="250" alt="Lista de Materias">
     </td>
     <td align="center">
-        <img src="![Calendario con faltas](https://github.com/user-attachments/assets/e0ea41d8-e8fe-4365-b3dc-7075949af438)
-" width="250" alt="Calendario">
+        <img src="https://github.com/user-attachments/assets/e0ea41d8-e8fe-4365-b3dc-7075949af438" width="250" alt="Calendario">
     </td>
   </tr>
 </table>
