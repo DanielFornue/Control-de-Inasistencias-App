@@ -29,7 +29,8 @@ Este proyecto demuestra competencias en desarrollo móvil moderno:
 ## Capturas de Pantalla
 | Lista de Materias | Calendario |
 |:---:|:---:|
-| *(Sube una captura aquí después)* | *(Sube una captura aquí después)* |
+| *(![092124a6-71a5-4e1f-95ff-6219f1b69c44](https://github.com/user-attachments/assets/c67a06f3-f8e2-48ba-b630-251552d3a5b0)
+)* | *(Sube una captura aquí después)* |
 
 ---
 **Desarrollado por Daniel Fornue** *Estudiante de Ingeniería en TI*
