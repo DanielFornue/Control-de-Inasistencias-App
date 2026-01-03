@@ -4,7 +4,7 @@ Aplicación móvil desarrollada en Flutter para la gestión inteligente de asist
 
 ## Descarga la App
 ¡Ya disponible para Android!
-> [**👉 Descargar APK (Versión 1.0)**](https://github.com/DanielFornue/Control-de-Inasistencias-App/releases)
+> [** Descargar APK (Versión 1.0)**](https://github.com/DanielFornue/Control-de-Inasistencias-App/releases)
 
 ---
 
@@ -26,7 +26,7 @@ Este proyecto demuestra competencias en desarrollo móvil moderno:
 * **Back-ground Services:** Flutter Local Notifications (Android 13+ compatible)
 * **Diseño:** Material Design 3 (Dark Mode nativo)
 
-## 📸 Capturas de Pantalla
+## Capturas de Pantalla
 <table align="center">
   <tr>
     <td align="center" width="50%"><strong>Lista de Materias</strong></td>
