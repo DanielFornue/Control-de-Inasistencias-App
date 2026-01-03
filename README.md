@@ -1,16 +1,35 @@
-# asistencias_uni
+# Control de Asistencias (Academic Tracker)
 
-A new Flutter project.
+Aplicación móvil desarrollada en Flutter para la gestión inteligente de asistencias universitarias. Permite a los estudiantes llevar un registro preciso de sus faltas, visualizando límites y riesgos en tiempo real.
 
-## Getting Started
+## Descarga la App
+¡Ya disponible para Android!
+> [**👉 Descargar APK (Versión 1.0)**](https://github.com/DanielFornue/Control-de-Inasistencias-App/releases)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Características Principales
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* **Gestión de Materias:** CRUD completo (Crear, Leer, Actualizar, Borrar) de materias con límites personalizados.
+* **Semáforo de Riesgo (UI Dinámica):** Indicadores visuales (Verde/Amarillo/Rojo) que calculan automáticamente el porcentaje de riesgo de reprobación.
+* **Historial y Calendario:** Visualización de inasistencias en un calendario interactivo.
+* **Sistema de Notificaciones:** Recordatorios programados (Local Notifications) a las 8:00 AM para fomentar el registro diario.
+* **Persistencia de Datos:** Almacenamiento local seguro usando `shared_preferences` y serialización JSON (funciona Offline).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologías Utilizadas
+
+Este proyecto demuestra competencias en desarrollo móvil moderno:
+
+* **Framework:** Flutter & Dart
+* **Arquitectura:** Stateful Widgets & Clean Code principles
+* **Almacenamiento:** SharedPreferences (NoSQL key-value)
+* **Back-ground Services:** Flutter Local Notifications (Android 13+ compatible)
+* **Diseño:** Material Design 3 (Dark Mode nativo)
+
+## Capturas de Pantalla
+| Lista de Materias | Calendario |
+|:---:|:---:|
+| *(Sube una captura aquí después)* | *(Sube una captura aquí después)* |
+
+---
+**Desarrollado por Daniel Fornue** *Estudiante de Ingeniería en TI*
